@@ -1,0 +1,3 @@
+{ guess: @number,
+  name: @name,
+  message: @message }
